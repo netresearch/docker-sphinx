@@ -1,5 +1,5 @@
 
-FROM python:3-alpine
+FROM python:3.12.0a1-alpine
 
 LABEL maintainer.1="André Lademann <andre.lademann@netresearch.de>"\
       maintainer.2="Christian Burkhardt <christian.burkhardt@netresearch.de>"
